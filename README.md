@@ -27,12 +27,12 @@ A modular, high-performance pipeline to classify news as **real or fake** by lev
 
 ## 📈 Key Features
 
-- ✅ Data Preprocessing: Text cleaning, tokenization, padding.
-- ✅ LSTM Model: For fast prototyping on small datasets.
-- ✅ BERT & RoBERTa: Fine-tuned for deep contextual understanding.
-- ✅ Ensemble Strategy: Aggregates predictions from all models.
-- ✅ Evaluation Metrics: Accuracy, precision, recall, F1-score, confusion matrix.
-- ✅ Modular Code: Easily switch between models and datasets.
+-  Data Preprocessing: Text cleaning, tokenization, padding.
+-  LSTM Model: For fast prototyping on small datasets.
+-  BERT & RoBERTa: Fine-tuned for deep contextual understanding.
+-  Ensemble Strategy: Aggregates predictions from all models.
+-  Evaluation Metrics: Accuracy, precision, recall, F1-score, confusion matrix.
+-  Modular Code: Easily switch between models and datasets.
 
 ---
 
@@ -60,10 +60,10 @@ A modular, high-performance pipeline to classify news as **real or fake** by lev
 
 ## 🧠 Applications
 
-- ✅ **Social Media Monitoring** – Real-time fake news detection
-- ✅ **News Aggregators** – Filtering misinformation pre-publication
-- ✅ **Fact-Checking Platforms** – Automated claim verification
-- ✅ **Government & NGOs** – Tools to combat disinformation campaigns
+-  **Social Media Monitoring** – Real-time fake news detection
+-  **News Aggregators** – Filtering misinformation pre-publication
+-  **Fact-Checking Platforms** – Automated claim verification
+-  **Government & NGOs** – Tools to combat disinformation campaigns
 
 ---
 
